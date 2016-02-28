@@ -1,0 +1,23 @@
+_repo: Honor-Edgeworth-Or-Ottawa-s-Present-Tense_8448
+creator:
+  author:
+    agent_name: Vera
+    alias: Bottomley, Kate Madeline Barry
+    birthdate: 1865
+    gutenberg_agent_id: '2201'
+    url: http://www.gutenberg.org/2009/agents/2201
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ottawa (Ont.) -- Fiction'
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+title: Honor Edgeworth; Or, Ottawa's Present Tense
+url: http://www.gutenberg.org/ebooks/8448
