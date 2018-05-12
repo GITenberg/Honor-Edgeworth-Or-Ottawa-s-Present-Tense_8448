@@ -1,4 +1,8 @@
 _repo: Honor-Edgeworth-Or-Ottawa-s-Present-Tense_8448
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vera
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2201'
     url: http://www.gutenberg.org/2009/agents/2201
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8448#Honor-Edgeworth-Or-Ottawa-s-Present-Tense
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
